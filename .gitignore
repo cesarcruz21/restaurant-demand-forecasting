@@ -1,0 +1,15 @@
+# Datos reales — nunca subir
+ventas_restaurante.csv
+inventario_tienda.csv
+
+# Reportes generados
+reportes/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
