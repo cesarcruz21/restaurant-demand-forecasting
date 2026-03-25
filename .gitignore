@@ -1,15 +1,18 @@
-# Datos reales — nunca subir
 ventas_restaurante.csv
-inventario_tienda.csv
-
-# Reportes generados
+inventario_restaurante
+inventario_restaurante.csv
+Prediccion de ventas pre.ipynb
+Prediccion de ventas.ipynb
+*.code-workspace
+inspeccionar_retail.py
+procesar_datos,py
+run_pipelinle.py
+salida_inspeccion.txt
+retail_sales_dataset.csv
+retail_sales_dataset - copia.csv
 reportes/
-
-# Python
+reportes - copia/
+linkdein_post.txt
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-
-# Sistema
-.DS_Store
-Thumbs.db
