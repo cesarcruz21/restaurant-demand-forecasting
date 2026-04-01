@@ -1,0 +1,7 @@
+# Este archivo mantiene la carpeta data/ en el repositorio.
+# Los archivos CSV de datos NO se suben a GitHub (ver .gitignore).
+# 
+# Para usar el proyecto con datos reales:
+# 1. Descarga cs-training.csv de https://www.kaggle.com/c/GiveMeSomeCredit
+# 2. Coloca el archivo en esta carpeta
+# 3. Ejecuta: streamlit run app.py
